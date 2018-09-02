@@ -1,4 +1,4 @@
-# JS-enabled demo Mongoose OS firmware
+# JS-enabled not a DEMO Mongoose OS firmware
 
 This is the JS demo Mongoose OS app. It gets installed by default at
 [Mongoose OS installation step](https://mongoose-os.com/docs/). It has
